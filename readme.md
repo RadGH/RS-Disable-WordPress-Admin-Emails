@@ -1,4 +1,4 @@
-RS Disable WP Emails (WordPress Plugin)
+RS Disable WordPress Admin Emails (WordPress Plugin)
 ==
 
 _Disables the [Site Name] New User and [Site Name] Password Changed email notifications._
